@@ -60,13 +60,13 @@
 }
 
 .header_bar-links a:hover {
-  color: var(--text-dark ); /* Cor ao passar o mouse */
+  color: var(--text-dark ); 
 }
 
 header{
   position: fixed;
   width: 100%;
-  top: 30px;
+  top: 25px;
   right: 0;
   z-index: 100;
   display: flex;
@@ -146,6 +146,21 @@ cursor: pointer;
 
 .catalog a:hover {
   color: #fb5808; 
+}
+
+section{
+ padding: 5% 10%;
+}
+
+.main-home{
+width: 1245px;
+height: 395px;
+background-image: url(../resources/images/moon.gif);
+background-position: center;
+background-size: cover;
+display: grid;
+grid-template-columns: repeat(1, 1fr);
+align-items: center;
 }
 
 body{
