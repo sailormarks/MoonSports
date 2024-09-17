@@ -114,7 +114,7 @@ color: #fb5808;
 
 #menu-icon{
 font-size: 35px;
-color: #6c6c6c;
+color: #e5e5e5;
 z-index: 10001;
 cursor: pointer;
 }
@@ -164,7 +164,7 @@ align-items: center;
 }
 
 body{
-  font-family: "Poppins", system-ui;
+  
 }
 
 
