@@ -189,14 +189,17 @@ header {
 .sale__title {
   font-size: 2rem;
   font-weight: 600;
+  color: #fb5808;
 }
 
 .sale__title span {
   font-size: 2.5rem;
+  color: #ff0000;
 }
 
 .sale__subtitle {
   font-size: 1rem;
+  color: var(--text-dark);
 }
 
 .sale__btn {
